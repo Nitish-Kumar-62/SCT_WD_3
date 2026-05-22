@@ -32,6 +32,7 @@
 📱 Fully Responsive Design
 
 🎨 Modern Glassmorphism UI
+
 # 🛠 Technologies Used
   HTML5
   
