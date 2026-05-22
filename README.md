@@ -41,7 +41,7 @@
 # 🌐 Live PROJECT
    🌐 Live Project:
    
-   👉 GitHub Repository:
+   👉 GitHub Repository:https://github.com/Nitish-Kumar-62/SCT_WD_3
 # 📂 Project Structure
 SCT_WD_3/
 
@@ -62,7 +62,7 @@ SCT_WD_3/
 
  📧 Email:nitish62ni@gmail.com / nitish62rana@gmail.com
 
- 🔗 GitHub:
+ 🔗 GitHub:https://github.com/Nitish-Kumar-62/SCT_WD_3
 
  🌐 Live Project:
 
