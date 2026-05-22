@@ -39,7 +39,7 @@
   
   JavaScript (Vanilla JS)
 # 🌐 Live PROJECT
-   🌐 Live Project:
+   🌐 Live Project: https://nitish-kumar-62.github.io/SCT_WD_3/
    
    👉 GitHub Repository:https://github.com/Nitish-Kumar-62/SCT_WD_3
 # 📂 Project Structure
@@ -64,7 +64,7 @@ SCT_WD_3/
 
  🔗 GitHub:https://github.com/Nitish-Kumar-62/SCT_WD_3
 
- 🌐 Live Project:
+ 🌐 Live Project: https://nitish-kumar-62.github.io/SCT_WD_3/
 
  💼 LinkedIn:  https://www.linkedin.com/in/nitish-kumar-0201n2005/
  
