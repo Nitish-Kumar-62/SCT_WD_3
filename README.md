@@ -2,11 +2,14 @@
 # 🎯 Project Title
       Quiz Master Pro – Interactive Quiz Game
 # 📌 Project Overview
-      Quiz Master Pro is a modern and interactive web-based quiz application developed for the SkillCraft Technology Internship Task 3 (SCT_WD_3). using HTML, CSS, and JavaScript.
+      Quiz Master Pro is a modern and interactive web-based quiz application developed for the 
+      SkillCraft Technology Internship Task 3 (SCT_WD_3). using HTML, CSS, and JavaScript.
 
-      The main goal of this project is to provide an engaging quiz experience where users can attempt different types of questions such as Single Choice, Multiple Choice, and Fill in the Blanks.
+      The main goal of this project is to provide an engaging quiz experience where users 
+      can attempt different types of questions such as Single Choice, Multiple Choice, and Fill in the Blanks.
 
-      It also includes features like score calculation, progress tracking, and performance feedback, making it a professional-level frontend project.
+      It also includes features like score calculation, progress tracking, and 
+      performance feedback, making it a professional-level frontend project.
 # ✨ Features 🎯 Multiple Choice Questions
 ☑️ Single Select Questions
 
