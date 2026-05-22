@@ -39,10 +39,9 @@
   
   JavaScript (Vanilla JS)
 # 🌐 Live PROJECT
-
-
-
-
+   🌐 Live Project:
+   
+   👉 GitHub Repository:
 # 📂 Project Structure
 SCT_WD_3/
 
@@ -60,4 +59,12 @@ SCT_WD_3/
  NITISH KUMAR 
 
  WEB DEVELOPMENT INTERN - SKILLCRAFT TECHNOLOGY
+
+ 📧 Email:nitish62ni@gmail.com / nitish62rana@gmail.com
+
+ 🔗 GitHub:
+
+ 🌐 Live Project:
+
+ 💼 LinkedIn:  https://www.linkedin.com/in/nitish-kumar-0201n2005/
  
