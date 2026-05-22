@@ -10,7 +10,9 @@
 
       It also includes features like score calculation, progress tracking, and 
       performance feedback, making it a professional-level frontend project.
-# ✨ Features 🎯 Multiple Choice Questions
+# ✨ Features 
+🎯 Multiple Choice Questions
+
 ☑️ Single Select Questions
 
 ☑️ Multi Select Questions
